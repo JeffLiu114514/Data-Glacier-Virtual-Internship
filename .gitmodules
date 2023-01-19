@@ -1,6 +1,3 @@
 [submodule "Week1/VC"]
 	path = Week1/VC
 	url = https://github.com/JeffLiu114514/VC.git
-[submodule "Bank-Marketing-Campaigns"]
-	path = Bank-Marketing-Campaigns
-	url = https://github.com/TheIbrahimMalik/Bank-Marketing-Campaigns.git
