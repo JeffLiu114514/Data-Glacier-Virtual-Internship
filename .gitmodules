@@ -1,3 +1,6 @@
 [submodule "Week1/VC"]
 	path = Week1/VC
 	url = https://github.com/JeffLiu114514/VC.git
+[submodule "Retail-Forcasting-Group-Project-"]
+	path = Retail-Forcasting-Group-Project-
+	url = https://github.com/Hinasif/Retail-Forcasting-Group-Project-
