@@ -4,3 +4,6 @@
 [submodule "Retail-Forcasting-Group-Project-"]
 	path = Retail-Forcasting-Group-Project-
 	url = https://github.com/Hinasif/Retail-Forcasting-Group-Project-
+[submodule "Week5/data-glacier-week5-cloud-deploy"]
+	path = Week5/data-glacier-week5-cloud-deploy
+	url = https://github.com/JeffLiu114514/data-glacier-week5-cloud-deploy.git
